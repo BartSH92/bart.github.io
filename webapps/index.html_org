@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+  <title>BartSH's IT Lab</title>
+</head>
+<body>
+  <header>
+     <h1>BartSH</h1>
+     <h2>This is BartSH's Private site for Portfolio.</h2>
+  </header>
+  It works!<br>
+  <button onclick="location='test.jsp'">Go to JSP</button>
+</body>
+</html>
